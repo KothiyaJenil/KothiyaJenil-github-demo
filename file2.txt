@@ -1,0 +1,2 @@
+A GitHub branch is a separate line of development used to work on features or fixes without affecting the main codebase.
+It lets developers experiment, collaborate, and merge changes safely when they’re ready.
